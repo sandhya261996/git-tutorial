@@ -1,0 +1,10 @@
+ALL GIT COMMAND
+>> git init - for initailizing git in local
+>> git clone - clone the github repo in local
+>> git add -  Used to stage U tracked file
+>> git commit - Whatever changes is stages kee[ing is as a tracked
+>> git status - give the information of the current state of the git repository
+>> git checkout - switching to the new branch 
+>> git checkout -b <branch-name> - creating new branch
+>> git revert - reverting the deleted file
+>> git branch - give info list of all branch 
